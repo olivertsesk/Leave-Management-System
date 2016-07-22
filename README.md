@@ -8,4 +8,9 @@ Requirements:
  * Adapt calender to include local public holiday.
  * Optimize efficiency by implementing email notification.
  * Database is made as modular as possible to anticipate for furtur changes.
+ 
+
+References
+* https://mpdf.github.io/
+*  http://fullcalendar.io/
   
