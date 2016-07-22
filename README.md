@@ -7,5 +7,5 @@ Requirements:
  * Export report to have an overview of each employee/department.
  * Adapt calender to include local public holiday.
  * Optimize efficiency by implementing email notification.
- * Database is made as modular as possible to anticipate furtur changes.
+ * Database is made as modular as possible to anticipate for furtur changes.
   
